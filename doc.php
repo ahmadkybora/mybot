@@ -12,8 +12,8 @@
  * ست کردن وب هوک روی تلگرام بوسیله ngrok
  * اگر از برنامه ngrok
  * استفاده میکنید هر بار باید ست هوک را تنظیم کنید
- * https://api.telegram.org/bot2016260844:AAGwWwI6ZLA7cLUNNcAbbFz2W84wkJebZyo/setwebhook?url=https://f134-46-224-223-71.ngrok.io/MyBot/index.php
- */
+ * 
+ */https://api.telegram.org/bot2016260844:AAGwWwI6ZLA7cLUNNcAbbFz2W84wkJebZyo/setwebhook?url=https://f134-46-224-223-71.ngrok.io/MyBot/index.php
 // ---------------------------------------------------------------------------------------
 /**
  * اطلاعات بات را میدهد

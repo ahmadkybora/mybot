@@ -19,3 +19,13 @@ function messageRequestJson($method, $parameters) {
     $result = curl_exec($handle);
     return $result;
 }
+
+// function baseUrl() {
+//     return '';
+// }
+
+// function randomImage() {
+//     $images = glob("", GLOB_BRACE);
+//     $randomImage = $images[array_rand($images)];
+//     return baseUrl().$randomImage;
+// }
